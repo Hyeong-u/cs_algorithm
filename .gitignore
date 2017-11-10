@@ -5,4 +5,5 @@ obj/
 *.layout
 input.txt
 cmake-build-debug/
-CMakeLists.txt
+**/.idea/workspace.xml
+**/.idea/tasks.xml
