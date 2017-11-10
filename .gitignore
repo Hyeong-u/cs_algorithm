@@ -4,3 +4,5 @@ obj/
 *.depend
 *.layout
 input.txt
+cmake-build-debug/
+CMakeLists.txt
